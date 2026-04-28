@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="chatbot_cover" src="https://github.com/user-attachments/assets/543fc635-e883-41c7-bc61-40eacad5128a" /># 🤖 Student Affairs ChatBot
+# 🤖 Student Affairs ChatBot
 
 <div align="center">
 
