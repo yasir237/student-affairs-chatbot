@@ -78,6 +78,15 @@ Built on the **LLaMA** large language model architecture and fine-tuned on a cus
   <p><em>Example response — cafeteria hours query answered with accurate schedule information</em></p>
 </div>
 
+<video src="https://github.com/user-attachments/assets/5eadd7b8-7b14-45bd-b10d-f7d92fff8874" width="100%" controls></video>
+
+
+
+
+
+
+
+
 
 
 ### Project Poster
