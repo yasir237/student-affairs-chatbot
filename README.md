@@ -32,6 +32,7 @@ Built on the **LLaMA** large language model architecture and fine-tuned on a cus
 | 🎓 Advisor | Assoc. Prof. Dr. Fahrettin HORASAN |
 | 👨‍💻 Developer | Yasir Ayad Hamed AL RAWEE |
 | 👨‍💻 Developer | Yusuf Ömer KARA |
+| 👨‍💻 Developer | Mehmet Akif KAYMAK |
 
 ---
 
@@ -88,7 +89,7 @@ Built on the **LLaMA** large language model architecture and fine-tuned on a cus
 
 <div align="center">
 
-📥 **[Download Full Project Presentation (PDF)](YOUR_PDF_URL)**
+📥 **[Download Full Project Presentation (PDF)](https://github.com/yasir237/student-affairs-chatbot/blob/main/chatbot-projesi.pdf)**
 
 </div>
 
@@ -281,7 +282,7 @@ This project was developed as a graduation project at Kırıkkale University. Al
 **Kırıkkale University — Computer Engineering Department**
 **2024–2025 Graduation Project**
 
-*Developed by Yasir Ayad Hamed AL RAWEE & Yusuf Ömer KARA*
+*Developed by Yasir Ayad Hamed AL RAWEE & Yusuf Ömer KARA & Mehmet Akif KAYMAK*
 *Under the supervision of Assoc. Prof. Dr. Fahrettin HORASAN*
 
 </div>
