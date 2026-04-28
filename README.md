@@ -1,4 +1,4 @@
-# 🤖 Student Affairs ChatBot
+<img width="1672" height="941" alt="chatbot_cover" src="https://github.com/user-attachments/assets/543fc635-e883-41c7-bc61-40eacad5128a" /># 🤖 Student Affairs ChatBot
 
 <div align="center">
 
@@ -12,6 +12,10 @@
 **2024–2025 Graduation Project**
 
 </div>
+
+
+<img width="1672" height="941" alt="chatbot_cover" src="https://github.com/user-attachments/assets/f4d43e22-ad1d-45b3-b150-59a2f160c9ca" />
+
 
 ---
 
